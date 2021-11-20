@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Xinnan
 
 <!--
 **sxn2012/sxn2012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sxn2012&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sxn2012&hide=html&layout=compact)
+
+- 🍻 Graduated from [unimelb](https://www.unimelb.edu.au), Msc in Computer Science
+- ⚡ Java/Python/C++.
+-  Reach me from my [blog](https://sxn2012.github.io/).
