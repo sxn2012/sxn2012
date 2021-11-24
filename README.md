@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sxn2012&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sxn2012&hide=html&layout=compact)
 
-- 🍻 Graduated from [unimelb](https://www.unimelb.edu.au), Msc in Computer Science
+- 🍻 Graduated from [Unimelb](https://www.unimelb.edu.au), Msc in Computer Science
 - ⚡ Java/Python/C++.
 -  Reach me from my [blog](https://sxn2012.github.io/).
